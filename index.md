@@ -9,7 +9,7 @@ This year's Prathista Dina Mahotsavam will be celebrated on **29th April 2017 (1
 
 **Ashtadravya Ganapathi Homam, Aandu Kalasham, Noorum Paalum, Karakam, Manjaneerrattu, Pooppada & Villapattu** will be peformed. Arrangements have also been made for devotees to offer **Ponkala** and **Para**.
 
-#### Timings
+#### Pooja Timings on Prathista Dinam
 Morning<br /> 
 05.30 AM - Ashtadravya Ganapathi Homam<br />
 06.30 AM - Usha Pooja<br />
@@ -25,3 +25,5 @@ Evening<br />
 11.20 PM - Athazha Pooja<br />
 
 Devotees offering **Ponakala** are requested to reach temple by **6.30 AM**
+
+All timings provided are tentative and may be changed as necessary.
