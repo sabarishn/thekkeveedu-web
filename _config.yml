@@ -5,3 +5,4 @@ description2: लोकाः समस्ताः सुखिनो भवन
 show_downloads: false
 google_analytics: UA-62562886-3
 baseurl: ''
+permalink: :title/
