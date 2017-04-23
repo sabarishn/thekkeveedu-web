@@ -26,4 +26,4 @@ Evening<br />
 
 Devotees offering **Ponakala** are requested to reach temple by **6.30 AM**
 
-All timings provided are tentative and may be changed as necessary.
+All timings provided are tentative and may be changed as per any necessity.
