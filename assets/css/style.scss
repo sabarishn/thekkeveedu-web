@@ -10,7 +10,7 @@ header {
   border-bottom: solid 1px #890008;
 }
 header h1 {
-  with: 540px;
+  width: 540px;
   margin-top: 0;
   margin-bottom: 0.2em;
   font-size: 48px;
@@ -21,7 +21,7 @@ header h1 {
 }
 
 header h2 {
-  with: 540px;
+  width: 540px;
   margin-top: 0;
   margin-bottom: 0;
   font-size: 26px;
@@ -29,4 +29,10 @@ header h2 {
   line-height: 1.3;
   color: #fae5e6;
   letter-spacing: 0;
+}
+#hero-img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 180px;
 }
