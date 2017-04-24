@@ -22,7 +22,7 @@ Evening<br />
 06.30 PM - Deeparadhana, Deepakazcha, Karakam Ezhnellppu<br />
 07.30 PM - Vilakku Pooja<br />
 10.00 PM - Villpattu, Manjaneerattu, Pooppada<br />
-11.20 PM - Athazha Pooja<br />
+11.30 PM - Athazha Pooja<br />
 
 Devotees offering **Ponakala** are requested to reach temple by **6.30 AM**
 
